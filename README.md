@@ -1,3 +1,3 @@
-# UvA Deep Learning Course Lab Assignments
+# UvA Deep Learning Course Practical Assignments
 
-Lab assignments for the Deep Learning course at the University of Amsterdam. Currently this repository is a placeholder, assignments will be put online approximately two weeks before their deadline. 
+ 1. The assignment 1 is released. The deadline is **September 18th, 23:59**.
